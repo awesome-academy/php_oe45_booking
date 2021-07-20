@@ -28,7 +28,7 @@ mix.styles('resources/assets/template/css/create-tour.css', 'public/assets/templ
 mix.styles('resources/assets/template/css/bootstrap.css', 'public/assets/template/css/bootstrap.css');
 mix.styles('resources/assets/template/css/sb-admin-2.css', 'public/assets/template/css/sb-admin-2.css');
 mix.styles('resources/assets/template/css/user_profile.css', 'public/assets/template/css/user_profile.css');
-
+// mix.styles('resources/assets/system/css/tour.css', 'public/assets/system/css/tour.css');
 
 mix.js('resources/assets/template/js/superfish.js', 'public/assets/template/js/superfish.js');
 mix.js('resources/assets/template/js/hoverIntent.js', 'public/assets/template/js/hoverIntent.js');
